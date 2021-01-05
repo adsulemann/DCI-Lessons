@@ -9,7 +9,7 @@
   "author": "Mansoue Tumeh",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "newsapi": "^2.4.0"
   },
   "devDependencies": {},
